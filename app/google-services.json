@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1031103711440",
+    "firebase_url": "https://pushnotificationtest-44d32.firebaseio.com",
+    "project_id": "pushnotificationtest-44d32",
+    "storage_bucket": "pushnotificationtest-44d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031103711440:android:d46940a2a9c6e0ce",
+        "android_client_info": {
+          "package_name": "com.nitolmotorsltd.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031103711440-2n8s1ll5icenul49jirc3g9ugr19b8bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKzyj8ODTTLRvbGLNwnvW-JnYVzWFjrdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
